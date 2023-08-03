@@ -1,0 +1,162 @@
+body {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(123, 205, 228), rgb(58, 58, 133));
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+/* textos abaixo */
+
+.text1{
+    margin-left: 50%; 
+    margin-top: -270px;
+}
+
+.text2{
+    margin-top: -24%;
+}
+.text3{
+    margin-left: 50%; 
+    margin-top: -270px;
+}
+.text4{
+    margin-top: -24%;
+}
+.text5{
+    margin-left: 50%; 
+    margin-top: -270px;
+}
+.text6{
+    margin-left: 50%; 
+    margin-top: -300px;
+}
+.text7{
+    margin-top: -30.5%;
+}
+.text8{
+    margin-left: 50%; 
+    margin-top: -300px;
+}
+
+/* Outros */
+
+.rec{
+    margin-left: 70%; 
+    margin-top: -55px;
+}
+
+.lis{
+    margin-left: 88%; 
+    margin-top: -46px;
+}
+
+.div1{
+    margin: 3%;
+}
+
+.div2{
+    margin-top: -45%;
+    margin-left: 5%;
+}
+
+.p1 {
+    margin-top: 20%;
+}
+
+.desti{
+    margin-left: 13%;
+}
+
+.escri{
+    margin-top: 10%; 
+    margin-left: 10%; 
+    margin-bottom: -5px;
+}
+
+.home2{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.home3{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+/* imgs abaixo */
+
+.pnghome{
+    width: 45%;
+    margin-top: 65px;
+    margin-left: 60%;
+    /* margin-bottom: -70px; */
+}
+
+.pngicon{
+    width: 7%;
+    margin-top: -100px;
+}
+
+.one{
+    width: 35%;
+    margin: 5%;
+}
+
+.sae{
+    width: 35%;
+    margin: 5%;
+    margin-top: 15%;
+    margin-left: 65%;
+}
+
+.fairy{
+    width: 35%;
+    margin: 5%;
+    margin-top: 15%;
+}
+
+.hero{
+    width: 35%;
+    margin: 5%;
+    margin-top: 15%;
+    margin-left: 65%;
+}
+
+.saku{
+    width: 35%;
+    margin: 5%;
+    margin-top: 15%;
+}
+
+.d1{
+    width: 40%;
+    margin: 5%;
+    margin-top: 5%;
+}
+
+.d2{
+    width: 40%;
+    margin: 5%;
+    margin-top: 15%;
+    margin-left: 60.5%;
+}
+
+.d3{
+    width: 40%;
+    margin: 5%;
+    margin-top: 15%;
+}
+
+/* Links abaixo */
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    font-size: 101%;
+}
+a:visited{
+    color: black;
+  }
